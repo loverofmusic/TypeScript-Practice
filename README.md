@@ -29,3 +29,17 @@ JS 超集，有自己的静态类型，衍生语法，同时不能自己运行�
 ### 类型推断 和 类型注解（demo-7）
 
 ### 函数相关类型（demo-8）
+
+## 装饰器
+1. 生成基本结构：
+  - cd TypeScript-Practice
+  - mkdir ts-decorator
+  - cd ts-decorator
+  - npm init -y
+  - npm i ts-node -D
+  - npm i typescript -D
+  - tsc --init
+  - mkdir src
+  - touch index.ts => test-code...
+  - package.json => scripts => 'dev'
+  - npm run dev
